@@ -1,3 +1,5 @@
+Çok basit düzeyde html ve cssden oluşan hocaların verdigi ufak ödevler için ideal çıtır bir website örnegi
+
 Ana Sayfa
 ![image](https://github.com/user-attachments/assets/50bb3b1a-0649-4976-950f-a6df3a1fd447)
 ![image](https://github.com/user-attachments/assets/acfb5051-e219-4cfc-bd6a-79751f5594bc)
