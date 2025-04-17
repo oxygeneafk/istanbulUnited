@@ -1,0 +1,107 @@
+/* Reset CSS */
+body, h1, h2, h3, p, ul {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+   margin: 0;
+   padding: 0;
+   background: url("unitedbackground1.png") no-repeat center top fixed;
+   background-size: cover
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+header {
+  background-color: #355c7d;
+  color: #355C7D;
+  padding: 20px 0;
+  z-index: 1
+}
+
+header nav ul {
+  list-style: none;
+}
+
+header nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+header nav ul li a {
+  color: #000000;
+  text-decoration: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 8px;
+}
+
+input,
+textarea {
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+main {
+  padding: 20px 0;
+}
+
+.hero {
+  padding: 0px 0;
+  text-align: center;
+}
+
+.about,
+.departments,
+.announcements,
+.contact {
+  padding: 0px 0;
+}
+
+footer {
+  background-color: #355c7d;
+  color: #00000;
+  text-align: center;
+  padding: 20px;
+}
